@@ -1,1 +1,3 @@
 *.txt
+# Carpetas a ignorar
+buil/
